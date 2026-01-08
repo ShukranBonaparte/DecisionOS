@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 # DecisionOS
 
 **DecisionOS** is an experimental decision-making framework and UI prototype for **AI-assisted reasoning** — designed for founders, operators, and builders who need to make high-stakes decisions with imperfect information.
